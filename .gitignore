@@ -1,0 +1,10 @@
+/target/
+/validation/target/
+/analysis/*.asm
+/analysis/*.strings
+/analysis/*.o
+/analysis/*.dwarf
+/analysis/decoded/
+/analysis/__pycache__/
+/native-vsim.vcd
+/native-roundtrip.wlf

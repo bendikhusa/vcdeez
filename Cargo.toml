@@ -1,0 +1,8 @@
+[package]
+name = "vcdeez"
+version = "0.1.0"
+edition = "2021"
+description = "Record-aware WLF to VCD export with exact WLF recovery"
+
+[dependencies]
+
